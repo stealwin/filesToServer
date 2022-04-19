@@ -1,0 +1,7 @@
+.list-item{
+    display: inline;
+    padding: 0 5px;
+}
+.list-item > a {
+    text-decoration: none;
+}
